@@ -1,0 +1,417 @@
+@media (min-width:426px) {
+    .logo a {
+        font-size: 34px;
+    }
+
+    .aboutme-img img {
+        width: 300px;
+    }
+}
+
+@media (min-width:768px) {
+    .navbar {
+        justify-content: space-around;
+    }
+
+    .aboutme-para {
+        margin: 0 3rem;
+    }
+}
+
+@media (min-width:1128px) {
+
+    article {
+        width: 16rem;
+    }
+
+    .aboutme-img img {
+        width: 380px;
+    }
+}
+
+@media (min-width:1100px) {
+
+    /* navbar section */
+    #hamburger {
+        display: none;
+    }
+
+    .logo a {
+        font-size: 34px;
+    }
+
+    .nav-link {
+        position: static;
+        top: auto;
+        right: auto;
+        opacity: 1;
+        transform: none;
+        transition: none;
+        pointer-events: auto;
+        background-color: #191627
+    }
+
+    .nav-link ul {
+        flex-direction: row;
+        gap: 30px;
+    }
+
+    .nav-link ul li a {
+        font-size: 24px;
+    }
+
+    /* introduction */
+
+    .introduction {
+        margin: 0 10rem;
+    }
+
+    .introduction p:first-of-type {
+        font-size: 22px;
+    }
+
+    .introduction p:last-of-type {
+        font-size: 45px;
+    }
+
+    .introduction h1 {
+        font-size: 60px;
+    }
+
+    .intro-btn button {
+        padding: 20px 22px;
+    }
+
+    /* aboutme section */
+
+    .aboutme {
+        margin: 0 10rem;
+    }
+
+    .aboutme-first p {
+        font-size: 18px;
+    }
+
+    .aboutme-first h2 {
+        font-size: 3rem;
+    }
+
+    .aboutme-boxes {
+        flex-direction: row;
+    }
+
+    .aboutme-box1,
+    .aboutme-box2 {
+        width: 36vw;
+        height: 30vh;
+    }
+
+    .aboutme-para {
+        margin: 0 1rem;
+    }
+
+    /* experience section */
+
+    .experience {
+        margin: 0 10rem;
+    }
+
+    .exp-first {
+        gap: 16px;
+        width: 100%;
+    }
+
+    .exp-first p {
+        font-size: 18px;
+    }
+
+    .exp-first h2 {
+        font-size: 3rem;
+    }
+
+    .exp-sec {
+        flex-direction: row;
+    }
+
+    article {
+        width: 10rem;
+    }
+
+    /* my project section */
+
+    .myproject {
+        margin: 0 10rem;
+        padding-top: 3rem;
+    }
+
+    .mypro-sec {
+        flex-direction: row;
+        gap: 30px;
+        flex-wrap: wrap;
+    }
+
+    .mypro-box {
+        width: 35vw;
+    }
+
+    .mypro-img {
+        height: 36vh;
+        width: 30vw;
+    }
+
+    /* contact section */
+
+    .contact {
+        margin: 0 10rem;
+        padding-top: 3rem;
+        gap: 16px;
+    }
+
+    .contact p {
+        font-size: 18px;
+    }
+
+    .contact h3 {
+        font-size: 3rem;
+    }
+
+    .contact-info-upper-container {
+        width: 36vw;
+        height: 16vh;
+        flex-direction: row;
+        gap: 30px;
+    }
+
+    .contact-info-container img {
+        width: 30px;
+    }
+
+    /* footer */
+
+    footer {
+        height: 36vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .footer-nav {
+        height: auto;
+        margin-top: 3rem;
+    }
+
+    .footer-nav ul {
+        gap: 3rem;
+        flex-direction: row;
+    }
+
+    .footer-nav ul li a {
+        font-size: 24px;
+    }
+}
+
+@media (min-width:1300px) {
+    .navbar {
+        height: 20vh;
+        justify-content: space-evenly;
+    }
+
+    .introduction {
+        height: 85vh;
+    }
+
+    .aboutme-second {
+        display: flex;
+        gap: 2rem;
+        margin-top: 5rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .aboutme-img img {
+        width: 360px;
+    }
+
+    .aboutme-para {
+        margin: 0px;
+    }
+
+    .aboutme-box1,
+    .aboutme-box2 {
+        width: 22vw;
+        height: 25vh;
+    }
+
+    .arrow {
+        /* border: 2px solid red; */
+        width: 100%;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        position: relative;
+        left: 6rem;
+        top: 1rem;
+    }
+
+    .experience {
+        padding-top: 4rem;
+    }
+
+    .exp-sec {
+        margin-top: 4rem;
+    }
+
+    .exp-arrow {
+        /* border: 2px solid red; */
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        position: relative;
+        left: 6rem;
+        top: 1rem;
+    }
+
+    .my-project {
+        padding-top: 4rem;
+    }
+
+    .mypro-sec {
+        gap: 20px;
+    }
+
+    .mypro-box {
+        width: 24vw;
+    }
+
+    .mypro-img {
+        height: 36vh;
+        width: 21vw;
+    }
+
+    .contact {
+        height: 55vh;
+    }
+
+    .contact-info-container a {
+        font-size: 20px;
+    }
+
+    .mypro-arrow {
+        /* border: 2px solid red; */
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        position: relative;
+        left: 6rem;
+        top: 1rem;
+    }
+
+    .exp-arrow img {
+        height: 2rem;
+    }
+
+    .exp-arrow img:hover {
+        cursor: pointer;
+
+    }
+
+    .arrow img {
+        height: 2rem;
+    }
+
+    .arrow img:hover {
+        cursor: pointer;
+    }
+
+    .mypro-arrow img {
+        height: 2rem;
+    }
+
+    .mypro-arrow img:hover {
+        cursor: pointer;
+
+    }
+
+}
+
+
+@media (min-width:1400px) {
+    .navbar {
+        height: 18vh;
+    }
+
+    .introduction {
+        height: 80vh;
+    }
+
+    .aboutme-img img {
+        width: 380px;
+    }
+
+    .aboutme-box1,
+    .aboutme-box2 {
+        width: 22vw;
+        height: 23vh;
+    }
+
+    .arrow {
+        top: 2rem;
+    }
+
+    .exp-arrow {
+        top: 2rem;
+    }
+
+    .myproject {
+        padding-top: 6rem;
+    }
+
+    .mypro-first {
+        margin-top: 2rem;
+    }
+
+    .mypro-arrow {
+        top: 2rem;
+    }
+
+    article {
+        width: 14rem;
+    }
+
+    .contact-info-upper-container {
+        width: 32vw;
+        height: 13vh;
+    }
+
+    .contact-info-container a {
+        font-size: 20px;
+    }
+
+    .exp-first {
+        padding-top: 4rem;
+    }
+
+    .footer-nav{
+        margin-top: 5rem;
+    }
+
+    .contact{
+        height: 70vh;
+        padding-top: 10rem;
+    }
+
+    .mypro-sec{
+        margin-top: 4rem;
+    }
+
+    .aboutme-para{
+        margin: 0 3rem;
+    }
+}
+
+@media (min-width:2560px){
+    article{
+        width: 16rem;
+    }
+}
