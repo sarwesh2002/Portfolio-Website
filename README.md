@@ -39,7 +39,7 @@ It adapts seamlessly across all screen sizes, follows best practices, and is des
 
 ## 🚀 Live Preview
 
-🌍 [Live Site]((https://portfolio-website-nine-rouge-64.vercel.app/))
+🌍 [Live Site](https://portfolio-website-nine-rouge-64.vercel.app/)
 
 ---
 
