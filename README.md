@@ -1,13 +1,13 @@
 # 🌐 Modern Responsive Website – HTML, CSS & JavaScript
 
 ## 🖥️ Desktop View  
-![Desktop Screenshot](./Desktop%20Landing%20page.png)
+![Desktop Screenshot](./DesktopLandingpage.png)
 
 ## 📱 Mobile View  
-![Mobile Screenshot](./Mobile%20Landing%20page.png)
+![Mobile Screenshot](./MobileLandingpage.png)
 
 ## 🎥 Demo Video  
-▶️ [Click here to watch the demo video](https://github.com/yourusername/yourrepo/blob/main/demo.mp4)  
+▶️ [Click here to watch the demo video](./portfoliowebsitevideo-MadewithClipchamp_1752002506752.mp4)  
 
 ---
 
