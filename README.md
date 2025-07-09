@@ -1,13 +1,13 @@
 # 🌐 Modern Responsive Website – HTML, CSS & JavaScript
 
 ## 🖥️ Desktop View  
-![Desktop Screenshot](./DesktopLandingpage.png)
+![Desktop Screenshot](./screenshot/desktop.png)
 
 ## 📱 Mobile View  
-![Mobile Screenshot](./MobileLandingpage.png)
+![Mobile Screenshot](./screenshot/mobile.png)
 
 ## 🎥 Demo Video  
-▶️ [Click here to watch the demo video](./portfoliowebsitevideo-MadewithClipchamp_1752002506752.mp4)  
+▶️ [Click here to watch the demo video](./video/portfolio-demo.mp4)  
 
 ---
 
@@ -39,7 +39,7 @@ It adapts seamlessly across all screen sizes, follows best practices, and is des
 
 ## 🚀 Live Preview
 
-🌍 [Live Site](https://your-netlify-or-github-link.com)
+🌍 [Live Site]((https://portfolio-website-nine-rouge-64.vercel.app/))
 
 ---
 
@@ -55,7 +55,7 @@ I build modern, responsive, and fast websites tailored to your brand using pure 
 
 - 📧 Email: sonisarwesh12@example.com  
 - 📱 Fiverr: [sarwesh2002 on Fiverr](https://www.fiverr.com/sarwesh2002)  
-- 🌐 Portfolio: [your-portfolio-link.com](#)
+- 🌐 Portfolio: [[your-portfolio-link.com](https://portfolio-website-nine-rouge-64.vercel.app/)](#)
 
 ---
 
