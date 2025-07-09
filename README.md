@@ -1,12 +1,13 @@
 # 🌐 Modern Responsive Website – HTML, CSS & JavaScript
 
-![Desktop Screenshot](./Desktop Landing page.png)
+## 🖥️ Desktop View  
+![Desktop Screenshot](./Desktop%20Landing%20page.png)
 
-## 📱 Mobile View
+## 📱 Mobile View  
+![Mobile Screenshot](./Mobile%20Landing%20page.png)
 
-![Mobile Screenshot](./Mobile Landing page.png)
-
-🎥 [Click here to watch the demo video]([https://portfolio-website-nine-rouge-64.vercel.app/])
+## 🎥 Demo Video  
+▶️ [Click here to watch the demo video](https://github.com/yourusername/yourrepo/blob/main/demo.mp4)  
 
 ---
 
@@ -19,12 +20,12 @@ It adapts seamlessly across all screen sizes, follows best practices, and is des
 
 ## 🔧 Features
 
-- ✅ Pixel-perfect responsive layout
-- ✅ Mobile-first design approach
-- ✅ Smooth scroll and basic animations
-- ✅ Clean and organized code structure
-- ✅ Fast loading and optimized performance
-- ✅ Fully deployed on Netlify (or GitHub Pages)
+- ✅ Pixel-perfect responsive layout  
+- ✅ Mobile-first design approach  
+- ✅ Smooth scroll and basic animations  
+- ✅ Clean and organized code structure  
+- ✅ Fast loading and optimized performance  
+- ✅ Fully deployed on Netlify or GitHub Pages
 
 ---
 
@@ -32,13 +33,13 @@ It adapts seamlessly across all screen sizes, follows best practices, and is des
 
 - HTML5  
 - CSS3 (Flexbox + Media Queries)  
-- JavaScript (Vanilla)  
+- JavaScript (Vanilla)
 
 ---
 
 ## 🚀 Live Preview
 
-🌍 [**Live Site**]((https://portfolio-website-nine-rouge-64.vercel.app/))
+🌍 [Live Site](https://your-netlify-or-github-link.com)
 
 ---
 
@@ -52,10 +53,10 @@ I build modern, responsive, and fast websites tailored to your brand using pure 
 
 ## 📬 Contact Me
 
-📧 Email: sonisarwesh12@example.com  
-📱 Fiverr: [sarwesh2002 on Fiverr](https://www.fiverr.com/sarwesh2002)  
-🌐 Portfolio: [[your-portfolio-link.com](https://portfolio-website-nine-rouge-64.vercel.app/)](#)
+- 📧 Email: sonisarwesh12@example.com  
+- 📱 Fiverr: [sarwesh2002 on Fiverr](https://www.fiverr.com/sarwesh2002)  
+- 🌐 Portfolio: [your-portfolio-link.com](#)
 
 ---
 
-> 💡 _Let’s bring your website idea to life!_
+> 💡 *Let’s bring your website idea to life!*
