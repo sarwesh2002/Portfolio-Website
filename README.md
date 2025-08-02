@@ -4,10 +4,7 @@
 ![Desktop Screenshot](./screenshot/desktop.png)
 
 ## 📱 Mobile View  
-![Mobile Screenshot](./screenshot/mobile.png)
-
-## 🎥 Demo Video  
-▶️ [Click here to watch the demo video](./video/portfolio-demo.mp4)  
+![Mobile Screenshot](./screenshot/mobile.png) 
 
 ---
 
